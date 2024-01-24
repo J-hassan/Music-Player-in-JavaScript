@@ -249,7 +249,9 @@ ul li.playing{
 
 @media (max-width:400px){
     .wrapper{
+      padding: 60px 20px;
       width: 100%;
+      height: 100vh;
       border-radius: 0;
     }
 }

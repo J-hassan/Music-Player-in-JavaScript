@@ -20,4 +20,14 @@ let allMusic = [
     artist: "Ghulam Mustafa Qadri",
     src: "haledil"
   },
+  {
+    name: "Tamanna Muddato Se Ha",
+    artist: "Ehsan Tahmeed",
+    src: "t"
+  },
+  {
+    name: "Halat Ke Qadmo Pe Qalandar Nahi Girta",
+    artist: "Abdullah Kohistani",
+    src: "q"
+  },
 ];
