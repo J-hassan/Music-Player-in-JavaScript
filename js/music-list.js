@@ -30,4 +30,9 @@ let allMusic = [
     artist: "Abdullah Kohistani",
     src: "q"
   },
+  {
+    name: "Manzil Se Agee barh Kar Mazil Talash Kar",
+    artist: "Atiq Ur Rehman",
+    src: "manzil"
+  },
 ];
