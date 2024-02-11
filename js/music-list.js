@@ -35,4 +35,19 @@ let allMusic = [
     artist: "Atiq Ur Rehman",
     src: "manzil"
   },
+    {
+    name: "Bazme Hasti Meri Kiya ha",
+    artist: "H Abdul-Ur-Rehman",
+    src: "bazme"
+  },
+    {
+    name: "Charagh-e-Zindagi",
+    artist: "Hafiz Munir Ahmed",
+    src: "NahiHoge"
+  },
+  {
+    name: "Bhej De Koi Umer",
+    artist: "Fasih Asif",
+    src: "umer"
+  },
 ];
