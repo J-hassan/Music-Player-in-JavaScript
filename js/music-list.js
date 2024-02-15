@@ -17,7 +17,7 @@ let allMusic = [
   },
   {
     name: "Haale Dil Kis Ko Sonaee",
-    artist: "Ghulam Mustafa Qadri",
+    artist: "Mazhar Ul Islam",
     src: "haledil"
   },
   {
