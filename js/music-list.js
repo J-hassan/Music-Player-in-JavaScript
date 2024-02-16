@@ -20,6 +20,11 @@ let allMusic = [
     artist: "Mazhar Ul Islam",
     src: "haledil"
   },
+    {
+    name: "Faslo Ko Takalluf Ha Ham Se Agar",
+    artist: "Mazhar Ul Islam",
+    src: "faslo"
+  },
   {
     name: "Tamanna Muddato Se Ha",
     artist: "Ehsan Tahmeed",
