@@ -36,6 +36,16 @@ let allMusic = [
     src: "Sukhan"
   },
   {
+    name: "TAUBA",
+    artist: "Qari Shohaib Hussani",
+    src: "toba"
+  },
+  {
+    name: "Chand Taron Mein Tu",
+    artist: "Jalabeeb Qadri",
+    src: "chand"
+  },
+  {
     name: "Tamanna Muddato Se Ha",
     artist: "Ehsan Tahmeed",
     src: "t"
