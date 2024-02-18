@@ -11,6 +11,11 @@ let allMusic = [
     src: "ba"
   },
   {
+    name: "Faslo Ko Takalluf Ha Ham Se Agar",
+    artist: "Mazhar Ul Islam",
+    src: "faslo"
+  },
+  {
     name: "Kabhi Mayoos mat hona",
     artist: "Junaid-ur-Rehman",
     src: "km"
@@ -20,10 +25,15 @@ let allMusic = [
     artist: "Mazhar Ul Islam",
     src: "haledil"
   },
-    {
-    name: "Faslo Ko Takalluf Ha Ham Se Agar",
-    artist: "Mazhar Ul Islam",
-    src: "faslo"
+  {
+    name: "Bhej De Koi Umer",
+    artist: "Fasih Asif",
+    src: "umer"
+  },
+  {
+    name: "Sukhan Lagan Men Wo Sab Say Aala",
+    artist: "Zaheer Usmani",
+    src: "Sukhan"
   },
   {
     name: "Tamanna Muddato Se Ha",
@@ -49,10 +59,5 @@ let allMusic = [
     name: "Charagh-e-Zindagi",
     artist: "Hafiz Munir Ahmed",
     src: "NahiHoge"
-  },
-  {
-    name: "Bhej De Koi Umer",
-    artist: "Fasih Asif",
-    src: "umer"
   },
 ];
